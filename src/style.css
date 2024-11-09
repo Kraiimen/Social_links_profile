@@ -122,10 +122,6 @@ a{
         width: 380px;
         height: 610px;
     }
-
-    .socials-container a:hover{
-        transform: none;
-    }
 }
 
 @media screen and (max-width: 400px) {
@@ -137,9 +133,5 @@ a{
 
     .socials-container {
         gap: 15px;
-    }
-
-    .socials-container a:hover{
-        transform: none;
     }
 }
